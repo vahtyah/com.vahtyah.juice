@@ -1,0 +1,24 @@
+{
+  "name": "com.vahtyah.juice",
+  "displayName": "VahTyah Juice",
+  "version": "0.1.0",
+  "unity": "2021.3",
+  "description": "Lightweight, zero-allocation game feel framework. Component-based feedback player backed by LitMotion + UniTask. (Precompiled DLL distribution)",
+  "author": {
+    "name": "Tuan Van",
+    "url": "https://github.com/vahtyah"
+  },
+  "dependencies": {
+    "com.vahtyah.inspector": "1.0.0",
+    "com.annulusgames.lit-motion": "2.0.2",
+    "com.cysharp.unitask": "2.5.10"
+  },
+  "keywords": [
+    "feel",
+    "juice",
+    "feedback",
+    "tween",
+    "litmotion",
+    "unitask"
+  ]
+}

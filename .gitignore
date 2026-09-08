@@ -1,0 +1,4 @@
+# DLL distribution package — keep DLLs + .meta, ignore junk only
+.DS_Store
+Thumbs.db
+*.tmp
