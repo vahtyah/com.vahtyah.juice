@@ -3,6 +3,7 @@
   "displayName": "VahTyah Juice",
   "version": "0.1.0",
   "unity": "2021.3",
+  "documentationUrl": "https://github.com/vahtyah/com.vahtyah.juice/blob/main/Documentation~/API.md",
   "description": "Lightweight, zero-allocation game feel framework. Component-based feedback player backed by LitMotion + UniTask. (Precompiled DLL distribution)",
   "author": {
     "name": "Tuan Van",
